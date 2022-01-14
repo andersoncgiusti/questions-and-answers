@@ -1,4 +1,4 @@
-# questions-and-answers
+# Questions and Answers
 
 Yahoo-style Question and Answer Form.
 
